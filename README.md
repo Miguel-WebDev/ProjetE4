@@ -39,7 +39,7 @@ Le projet se matérialisera en gestion des version par plusieurs niveaux de bran
  * La **Master** qui reflétera le projet en cours après implémentation et validation par l'équipe des codes.
  * Une **branche dédié** _par fonctionnalités_ (binôme) permettra de sécuriser les développements :
    * chaque branche devra être nommé ainsi : F-_numero.de.binome_ - _nom.court.de.la.fonctionnalité_
-     * tel que : **F5-ajoutObjet**, représente la fonctionnalité d'ajout d'objet pour le binome 5.
+     * tel que : **F-5-ajoutObjet**, représente la fonctionnalité d'ajout d'objet pour le binome 5.
      * Référez-vous au tableau des fonctionnalités ci-dessus pour le détail.
 
 ### Informations complémentaires
