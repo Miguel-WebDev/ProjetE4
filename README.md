@@ -8,18 +8,7 @@ Cette épreuve vise à  évaluer les compétences acquises par le candidat dans 
  * aprécier la qualité de la solution obtenue par rapport à la demande initiale et aux contraintes de production ;
  * traiter les imprévus qui caractérisent de nombreuses activités du domaine.
 
-## Structure du projet
-Le projet se matérialisera en gestion des version par plusieurs niveaux de branches :
- * La **Master** qui reflétera le projet en cours après implémentation et validation par l'équipe des codes.
- * Une **branche dédié** _par fonctionnalités_ (binôme) permettra de sécuriser les développements :
-   * chaque branche devra être nommé ainsi : FONC-_numero.de.binome_ - _nom.court.de.la.fonctionnalité_
-     * tel que : **FONC-5-ajoutObjet**, représente la fonctionnalité d'ajout d'objet pour le binome 5.
-     * Il sera possible de créer d'autre branches spécifiques au besoin suivant le pattern suivant :
-          - _CONTEXTE_-_numero.de.binome_-_tache_
-          - Par exemple : BUGFIX-5-AjoutObjet_bdd
-     * Référez-vous au tableau des fonctionnalités ci-dessus pour le détail et à la convention de nommage.
-
-### Informations complémentaires
+## Informations complémentaires
 
 **WARNING**: Ce projet étant sous licence [GNU GPL V3][1], il serait apprécié que tout partage et au réutilisation soit faites après avoir prévenu les auteurs du dit projet, leur permetant de suivre son éventuelle évolution.
 
