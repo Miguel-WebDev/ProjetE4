@@ -8,32 +8,6 @@ Cette épreuve vise à  évaluer les compétences acquises par le candidat dans 
  * aprécier la qualité de la solution obtenue par rapport à la demande initiale et aux contraintes de production ;
  * traiter les imprévus qui caractérisent de nombreuses activités du domaine.
 
-## Composition de l'équipe
-
-Ce projet réalisé en équipe dont la composition est la classe de BTS 2018/2019.
-Il s'agit d'une répartition des tâches sur plusieurs niveaux, à savoir l'encadrement de l'implémentation d'un projet et sa conception, ici évaluées au travers de :
-
-| Résponsabilité     | Membres          |
-| :---------------   |---------------:|
-| Base de donnée            | Steph, Bougary, Blaise      |
-| Cahier des charges        | Ilyes, Imed                 |
-| Cas d'utilisation         | Blaise, Abdellah, Ilyes     |
-| Convention de nommage     | Abdellah, Imed, Khalil      |
-| Diagramme de navigation   | Philippe, Miguel            |
-| Documentation technique   | Miguel                      |
-| Documentation utilisateur | Steph, Thomas               |
-| Doc. Fiche d'incident     | Philippe, Imed              |
-| Gestion de projet         | Florian, Khalil, Thomas     |
-| Gestion de version Github | Miguel                      |
-| Interface Homme-Machine   | Blaise, Abdellah, Ilyes     |
-
-Ainsi que de la répartition de l'implémentation des fonctionnalités au travers de binôme, sur méthodes Agile, Scrum :
-
-| Fonctionnalité     | Numero          | Membres          |
-| :---------------   |:---------------:|---------------:|
-
-~~EN ATTENTE DE FORMATION DES BINOME~~
-
 ## Structure du projet
 Le projet se matérialisera en gestion des version par plusieurs niveaux de branches :
  * La **Master** qui reflétera le projet en cours après implémentation et validation par l'équipe des codes.
